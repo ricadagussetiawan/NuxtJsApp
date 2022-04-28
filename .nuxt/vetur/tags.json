@@ -1,0 +1,26 @@
+{
+  "CallToAction": {
+    "description": "Auto imported from components/CallToAction.vue"
+  },
+  "LazyCallToAction": {
+    "description": "Auto imported from components/CallToAction.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "LazyNavbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  }
+}
