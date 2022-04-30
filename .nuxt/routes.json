@@ -2,99 +2,85 @@
   {
     "name": "dashboard",
     "path": "/dashboard",
-    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\startup-frontend-master\\\\pages\\\\dashboard\\\\index.vue",
-    "chunkName": "pages/dashboard/index",
-    "_name": "_8897f026"
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\project Is Running\\\\NuxtJsApp\\\\pages\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/dashboard/index"
   },
   {
     "name": "login",
     "path": "/login",
-    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\startup-frontend-master\\\\pages\\\\login.vue",
-    "chunkName": "pages/login",
-    "_name": "_586e5dca"
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\project Is Running\\\\NuxtJsApp\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
   },
   {
     "name": "register",
     "path": "/register",
-    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\startup-frontend-master\\\\pages\\\\register.vue",
-    "chunkName": "pages/register",
-    "_name": "_dc75225c"
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\project Is Running\\\\NuxtJsApp\\\\pages\\\\register.vue",
+    "chunkName": "pages/register"
   },
   {
     "name": "register-success",
     "path": "/register-success",
-    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\startup-frontend-master\\\\pages\\\\register-success.vue",
-    "chunkName": "pages/register-success",
-    "_name": "_2977a5f0"
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\project Is Running\\\\NuxtJsApp\\\\pages\\\\register-success.vue",
+    "chunkName": "pages/register-success"
   },
   {
     "name": "upload",
     "path": "/upload",
-    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\startup-frontend-master\\\\pages\\\\upload.vue",
-    "chunkName": "pages/upload",
-    "_name": "_11ab48f0"
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\project Is Running\\\\NuxtJsApp\\\\pages\\\\upload.vue",
+    "chunkName": "pages/upload"
   },
   {
     "name": "dashboard-transactions",
     "path": "/dashboard/transactions",
-    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\startup-frontend-master\\\\pages\\\\dashboard\\\\transactions.vue",
-    "chunkName": "pages/dashboard/transactions",
-    "_name": "_8bee0aec"
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\project Is Running\\\\NuxtJsApp\\\\pages\\\\dashboard\\\\transactions.vue",
+    "chunkName": "pages/dashboard/transactions"
   },
   {
     "name": "transaction-error",
     "path": "/transaction/error",
-    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\startup-frontend-master\\\\pages\\\\transaction\\\\error.vue",
-    "chunkName": "pages/transaction/error",
-    "_name": "_77d961d9"
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\project Is Running\\\\NuxtJsApp\\\\pages\\\\transaction\\\\error.vue",
+    "chunkName": "pages/transaction/error"
   },
   {
     "name": "transaction-finish",
     "path": "/transaction/finish",
-    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\startup-frontend-master\\\\pages\\\\transaction\\\\finish.vue",
-    "chunkName": "pages/transaction/finish",
-    "_name": "_690fc392"
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\project Is Running\\\\NuxtJsApp\\\\pages\\\\transaction\\\\finish.vue",
+    "chunkName": "pages/transaction/finish"
   },
   {
     "name": "transaction-unfinish",
     "path": "/transaction/unfinish",
-    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\startup-frontend-master\\\\pages\\\\transaction\\\\unfinish.vue",
-    "chunkName": "pages/transaction/unfinish",
-    "_name": "_7fc96daa"
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\project Is Running\\\\NuxtJsApp\\\\pages\\\\transaction\\\\unfinish.vue",
+    "chunkName": "pages/transaction/unfinish"
   },
   {
     "name": "dashboard-projects-create",
     "path": "/dashboard/projects/create",
-    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\startup-frontend-master\\\\pages\\\\dashboard\\\\projects\\\\create.vue",
-    "chunkName": "pages/dashboard/projects/create",
-    "_name": "_02c8ed2b"
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\project Is Running\\\\NuxtJsApp\\\\pages\\\\dashboard\\\\projects\\\\create.vue",
+    "chunkName": "pages/dashboard/projects/create"
   },
   {
     "name": "dashboard-projects-id",
     "path": "/dashboard/projects/:id",
-    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\startup-frontend-master\\\\pages\\\\dashboard\\\\projects\\\\_id\\\\index.vue",
-    "chunkName": "pages/dashboard/projects/_id/index",
-    "_name": "_22cbf107"
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\project Is Running\\\\NuxtJsApp\\\\pages\\\\dashboard\\\\projects\\\\_id\\\\index.vue",
+    "chunkName": "pages/dashboard/projects/_id/index"
   },
   {
     "name": "dashboard-projects-id-edit",
     "path": "/dashboard/projects/:id?/edit",
-    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\startup-frontend-master\\\\pages\\\\dashboard\\\\projects\\\\_id\\\\edit.vue",
-    "chunkName": "pages/dashboard/projects/_id/edit",
-    "_name": "_338b1536"
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\project Is Running\\\\NuxtJsApp\\\\pages\\\\dashboard\\\\projects\\\\_id\\\\edit.vue",
+    "chunkName": "pages/dashboard/projects/_id/edit"
   },
   {
     "name": "projects-id",
     "path": "/projects/:id?",
-    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\startup-frontend-master\\\\pages\\\\projects\\\\_id.vue",
-    "chunkName": "pages/projects/_id",
-    "_name": "_185fcbe1"
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\project Is Running\\\\NuxtJsApp\\\\pages\\\\projects\\\\_id.vue",
+    "chunkName": "pages/projects/_id"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\startup-frontend-master\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_e2728a9a"
+    "component": "C:\\\\Users\\\\ASUS\\\\Desktop\\\\project Is Running\\\\NuxtJsApp\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
   }
 ]
