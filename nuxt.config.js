@@ -60,7 +60,7 @@ export default {
    ** See https://axios.nuxtjs.org/options
    */
   axios: {
-    baseURL: 'http://localhost:8080',
+    baseURL: 'http://mysql-77792-0.cloudclusters.net:13119',
   },
   /*
    ** Build configuration
