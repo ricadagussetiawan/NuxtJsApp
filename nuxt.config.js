@@ -60,7 +60,7 @@ export default {
    ** See https://axios.nuxtjs.org/options
    */
   axios: {
-    baseURL: 'http://localhost:8080',
+    baseURL: 'https://4f49-36-69-237-26.ngrok.io/bwastartup/main.go',
   },
   /*
    ** Build configuration
