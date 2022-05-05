@@ -60,7 +60,7 @@ export default {
    ** See https://axios.nuxtjs.org/options
    */
   axios: {
-    baseURL: 'https://627057f96a36d4d62c1804a0.mockapi.io',
+    baseURL: 'https://github.com/icat108/golang22',
   },
   /*
    ** Build configuration
