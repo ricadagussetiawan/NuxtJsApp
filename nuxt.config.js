@@ -60,7 +60,7 @@ export default {
    ** See https://axios.nuxtjs.org/options
    */
   axios: {
-  baseURL  : 'http://localhost:8080',
+  baseURL  : 'https://627057f96a36d4d62c1804a0.mockapi.io',
   },
   /*
    ** Build configuration
