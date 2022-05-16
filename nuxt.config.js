@@ -63,7 +63,7 @@ export default {
 //     baseURL  : 'https://richstore.my.id',
 //   baseURL  : 'http://103.183.75.93',
 //     baseURL : 'https://627057f96a36d4d62c1804a0.mockapi.io',
-    baseURL : 'https://116.193.191.220',
+    baseURL : 'http://116.193.191.220:8080/login',
     
   },
   /*
