@@ -60,8 +60,10 @@ export default {
    ** See https://axios.nuxtjs.org/options
    */
   axios: {
-  baseURL  : 'http://103.183.75.93:8080',
+    baseURL  : 'https://richstore.my.id',
+//   baseURL  : 'http://103.183.75.93:8080',
 //     baseURL : 'http://103.183.75.120',
+    
   },
   /*
    ** Build configuration
