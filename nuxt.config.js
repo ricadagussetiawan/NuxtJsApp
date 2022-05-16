@@ -60,9 +60,9 @@ export default {
    ** See https://axios.nuxtjs.org/options
    */
   axios: {
-    baseURL  : 'https://richstore.my.id',
+//     baseURL  : 'https://richstore.my.id',
 //   baseURL  : 'http://103.183.75.93:8080',
-//     baseURL : 'http://103.183.75.120',
+    baseURL : 'https://627057f96a36d4d62c1804a0.mockapi.io',
     
   },
   /*
