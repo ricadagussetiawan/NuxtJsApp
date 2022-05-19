@@ -66,7 +66,7 @@ export default {
 //     baseURL : 'https://103.186.0.49:443',
 //     baseURL : 'https://103.134.154.213:8080',
 //     baseURL : 'http://localhost:8080',
-   baseURL : 'https://103.134.154.213',
+   baseURL : 'https://ricad-store.my.id',
     
   },
   /*
