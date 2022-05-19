@@ -65,7 +65,8 @@ export default {
 //     baseURL : 'https://627057f96a36d4d62c1804a0.mockapi.io',
 //     baseURL : 'https://103.186.0.49:443',
 //     baseURL : 'https://103.134.154.213:8080',
-    baseURL : 'http://localhost:8080',
+//     baseURL : 'http://localhost:8080',
+   baseURL : 'http://ricad-store.my.id.:8080',
     
   },
   /*
