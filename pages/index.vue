@@ -167,8 +167,8 @@
         </div>
         <div class="w-8/12 mt-16">
           <h2 class="text-3xl text-gray-900 font-light">
-            “Funding at Bucker is very easy and comfortable. <br />
-            Just need to find an idea, click and already funding.”
+            “Pendanaan di Bucker sangat mudah dan nyaman. <br />
+            Hanya perlu mencari ide, klik dan sudah mendanai.”
           </h2>
           <div class="testimonial-info mt-8">
             <div class="name text-xl font-semibold">Shopie Nicole</div>
