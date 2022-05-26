@@ -64,7 +64,7 @@ export default {
    */
   axios: {
 // proxy: true,   
-//     baseURL : 'https://ricad-store.my.id',
+    baseURL : 'https://ricad-store.my.id',
     baseURL: 'http://localhost:8080',
    
   },
