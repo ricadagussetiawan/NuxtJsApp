@@ -77,16 +77,16 @@ proxy: true,
       local: {
         endpoints: {
           login: {
-//             url: '/api/v1/sessions',
-            baseURL : 'https://ricad-store.my.id/api/v1/sessions',
+            url: '/api/v1/sessions',
+//             baseURL : 'https://ricad-store.my.id/api/v1/sessions',
             method: 'post',
             propertyName: 'data.token',
           },
           logout: false,
           user: {
-//             url: '/api/v1/users/fetch',
+            url: '/api/v1/users/fetch',
             
-           baseURL : 'https://ricad-store.my.id/api/v1/users/fetch',
+//            baseURL : 'https://ricad-store.my.id/api/v1/users/fetch',
             method: 'get',
             propertyName: 'data',
           },
