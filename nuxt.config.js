@@ -4,7 +4,7 @@ export default {
    ** See https://nuxtjs.org/api/configuration-mode
 //   baseURL : 'https://ricad-store.my.id',
    */
-  mode: 'spa',
+  mode: 'universal',
   /*
    ** Nuxt target
    ** See https://nuxtjs.org/api/configuration-target
