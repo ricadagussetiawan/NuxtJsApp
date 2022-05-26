@@ -13,19 +13,19 @@ export default {
    ** Headers of the page
    ** See https://nuxtjs.org/api/configuration-head
    */
-  head: {
-    title: process.env.npm_package_name || 'https://ricad-store.my.id',
-    meta: [
-      { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      {
-        hid: 'description',
-        name: 'description',
-        content: process.env.npm_package_description || 'https://ricad-store.my.id',
-      },
-    ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-  },
+//   head: {
+//     title: process.env.npm_package_name || 'https://ricad-store.my.id',
+//     meta: [
+//       { charset: 'utf-8' },
+//       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+//       {
+//         hid: 'description',
+//         name: 'description',
+//         content: process.env.npm_package_description || 'https://ricad-store.my.id',
+//       },
+//     ],
+//     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+//   },
   /*
    ** Global CSS
    */
