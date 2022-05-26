@@ -1,4 +1,5 @@
 export default {
+  ssr: true
   /*
    ** Nuxt rendering mode
    ** See https://nuxtjs.org/api/configuration-mode
