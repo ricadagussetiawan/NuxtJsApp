@@ -56,22 +56,16 @@ export default {
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
     '@nuxtjs/auth',
-//     '@nuxtjs/proxy',
+    '@nuxtjs/proxy',
   ],
   /*
    ** Axios module configuration
    ** See https://axios.nuxtjs.org/options
    */
   axios: {
-//     proxy: true,
-//     baseURL  : 'https://richstore.my.id',
-//   baseURL  : 'http://103.183.75.93',
-//     baseURL : 'https://627057f96a36d4d62c1804a0.mockapi.io',
-//     baseURL : 'https://103.186.0.49:443',
-//     baseURL : 'http://103.181.143.190:8080',
+proxy: true,   
     baseURL : 'https://ricad-store.my.id',
-//    baseURL : 'https://ricad-store.my.id',
-    
+   
   },
   /*
    ** Build configuration
