@@ -11,7 +11,7 @@ export default {
    ** See https://nuxtjs.org/api/configuration-target
 //   baseURL : 'https://ricad-store.my.id',
    */
-  target: 'static',
+  target: 'server',
   /*
    ** Headers of the page
    ** See https://nuxtjs.org/api/configuration-head
