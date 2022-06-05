@@ -1,17 +1,15 @@
 export default {
-  ssr: true
+  // ssr: true,
   /*
    ** Nuxt rendering mode
    ** See https://nuxtjs.org/api/configuration-mode
-//   baseURL : 'https://ricad-store.my.id',
    */
-  mode: 'universal',
+  mode: 'spa',
   /*
    ** Nuxt target
    ** See https://nuxtjs.org/api/configuration-target
-//   baseURL : 'https://ricad-store.my.id',
    */
-  target: 'server',
+  target: 'static',
   /*
    ** Headers of the page
    ** See https://nuxtjs.org/api/configuration-head
@@ -57,41 +55,30 @@ export default {
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
     '@nuxtjs/auth',
-//     '@nuxtjs/proxy',
   ],
   /*
    ** Axios module configuration
    ** See https://axios.nuxtjs.org/options
    */
   axios: {
-// proxy: true,   
-    baseURL : 'https://ricad-store.my.id',
-//     baseURL: 'http://localhost:8080',
-   
+    baseURL: 'https://ricad-store.my.id',
   },
   /*
    ** Build configuration
    ** See https://nuxtjs.org/api/configuration-build/
    */
-//   proxy : {
   auth: {
     strategies: {
       local: {
         endpoints: {
           login: {
-//             url: '/api/v1/sessions',
-            
-            url: 'http://localhost:8080/api/v1/sessions',
-//             baseURL : 'https://ricad-store.my.id/api/v1/sessions',
+            url: '/api/v1/sessions',
             method: 'post',
             propertyName: 'data.token',
           },
           logout: false,
           user: {
-//             url: '/api/v1/users/fetch',
-            url: 'http://localhost:8080/api/v1/users/fetch',
-            
-//            baseURL : 'https://ricad-store.my.id/api/v1/users/fetch',
+            url: '/api/v1/users/fetch',
             method: 'get',
             propertyName: 'data',
           },
@@ -103,6 +90,5 @@ export default {
       },
     },
   },
-//     },
   build: {},
 }
