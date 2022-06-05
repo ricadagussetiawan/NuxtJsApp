@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
+    "baseUrl": "https://ricad-store.my.id",
     "paths": {
       "~/*": ["./*"],
       "@/*": ["./*"],
