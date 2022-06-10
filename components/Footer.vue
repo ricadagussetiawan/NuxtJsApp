@@ -46,8 +46,7 @@
           <ul class="font-light">
             <li class="mb-3">+62812 9293 1896</li>
             <li class="mb-3">
-              Gedung Artha Graha, Jl. Jenderal Sudirman No.Kav 52-53, RT.5/RW.3,
-              Senayan, Kebayoran Baru, South Jakarta City, Jakarta 12190
+              SCBD, Treasury Tower, 10th Floor, Unit A District 8, Jl. Jenderal Sudirman, RT.5/RW.3, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190
             </li>
             <li class="mb-3">No.12 (Backer)</li>
             <li class="mb-3">support@backer.id</li>

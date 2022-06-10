@@ -1,4 +1,5 @@
 export default {
+  // ssr: true,
   /*
    ** Nuxt rendering mode
    ** See https://nuxtjs.org/api/configuration-mode
@@ -60,7 +61,7 @@ export default {
    ** See https://axios.nuxtjs.org/options
    */
   axios: {
-    baseURL: 'http://localhost:8080',
+    baseURL: 'https://ricad-store.my.id',
   },
   /*
    ** Build configuration
