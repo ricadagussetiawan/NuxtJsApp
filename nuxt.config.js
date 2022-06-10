@@ -61,14 +61,12 @@ export default {
    ** See https://axios.nuxtjs.org/options
    */
   axios: {
-     proxy: true,
     baseURL: 'https://ricad-store.my.id',
   },
   /*
    ** Build configuration
    ** See https://nuxtjs.org/api/configuration-build/
    */
-  proxy: {
   auth: {
     strategies: {
       local: {
@@ -91,7 +89,6 @@ export default {
         // autoFetchUser: true,
       },
     },
-  },
   },
   build: {},
 }
