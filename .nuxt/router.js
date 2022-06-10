@@ -3,20 +3,20 @@ import Router from 'vue-router'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _1f0dde06 = () => interopDefault(import('..\\pages\\dashboard\\index.vue' /* webpackChunkName: "pages/dashboard/index" */))
-const _1abd5d51 = () => interopDefault(import('..\\pages\\login.vue' /* webpackChunkName: "pages/login" */))
-const _78df6deb = () => interopDefault(import('..\\pages\\register.vue' /* webpackChunkName: "pages/register" */))
-const _4e9e0321 = () => interopDefault(import('..\\pages\\register-success.vue' /* webpackChunkName: "pages/register-success" */))
-const _cd878b6e = () => interopDefault(import('..\\pages\\upload.vue' /* webpackChunkName: "pages/upload" */))
-const _1de0735e = () => interopDefault(import('..\\pages\\dashboard\\transactions.vue' /* webpackChunkName: "pages/dashboard/transactions" */))
-const _6c1615b2 = () => interopDefault(import('..\\pages\\transaction\\error.vue' /* webpackChunkName: "pages/transaction/error" */))
-const _072cea4e = () => interopDefault(import('..\\pages\\transaction\\finish.vue' /* webpackChunkName: "pages/transaction/finish" */))
-const _37bf4a9c = () => interopDefault(import('..\\pages\\transaction\\unfinish.vue' /* webpackChunkName: "pages/transaction/unfinish" */))
-const _7e667d72 = () => interopDefault(import('..\\pages\\dashboard\\projects\\create.vue' /* webpackChunkName: "pages/dashboard/projects/create" */))
-const _790a05ce = () => interopDefault(import('..\\pages\\dashboard\\projects\\_id\\index.vue' /* webpackChunkName: "pages/dashboard/projects/_id/index" */))
-const _2b132bbe = () => interopDefault(import('..\\pages\\dashboard\\projects\\_id\\edit.vue' /* webpackChunkName: "pages/dashboard/projects/_id/edit" */))
-const _07565468 = () => interopDefault(import('..\\pages\\projects\\_id.vue' /* webpackChunkName: "pages/projects/_id" */))
-const _5115ba3a = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _d77f8e54 = () => interopDefault(import('..\\pages\\dashboard\\index.vue' /* webpackChunkName: "pages/dashboard/index" */))
+const _f910b6fe = () => interopDefault(import('..\\pages\\login.vue' /* webpackChunkName: "pages/login" */))
+const _837cce8a = () => interopDefault(import('..\\pages\\register.vue' /* webpackChunkName: "pages/register" */))
+const _785f441e = () => interopDefault(import('..\\pages\\register-success.vue' /* webpackChunkName: "pages/register-success" */))
+const _47cad919 = () => interopDefault(import('..\\pages\\upload.vue' /* webpackChunkName: "pages/upload" */))
+const _3058a181 = () => interopDefault(import('..\\pages\\dashboard\\transactions.vue' /* webpackChunkName: "pages/dashboard/transactions" */))
+const _5e1cfc82 = () => interopDefault(import('..\\pages\\transaction\\error.vue' /* webpackChunkName: "pages/transaction/error" */))
+const _4b3f7e09 = () => interopDefault(import('..\\pages\\transaction\\finish.vue' /* webpackChunkName: "pages/transaction/finish" */))
+const _55737c3c = () => interopDefault(import('..\\pages\\transaction\\unfinish.vue' /* webpackChunkName: "pages/transaction/unfinish" */))
+const _2b237ebc = () => interopDefault(import('..\\pages\\dashboard\\projects\\create.vue' /* webpackChunkName: "pages/dashboard/projects/create" */))
+const _481cb0fe = () => interopDefault(import('..\\pages\\dashboard\\projects\\_id\\index.vue' /* webpackChunkName: "pages/dashboard/projects/_id/index" */))
+const _73334ae4 = () => interopDefault(import('..\\pages\\dashboard\\projects\\_id\\edit.vue' /* webpackChunkName: "pages/dashboard/projects/_id/edit" */))
+const _44a328d0 = () => interopDefault(import('..\\pages\\projects\\_id.vue' /* webpackChunkName: "pages/projects/_id" */))
+const _8c5ffd2c = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 // TODO: remove in Nuxt 3
 const emptyFn = () => {}
@@ -36,59 +36,59 @@ export const routerOptions = {
 
   routes: [{
     path: "/dashboard",
-    component: _1f0dde06,
+    component: _d77f8e54,
     name: "dashboard"
   }, {
     path: "/login",
-    component: _1abd5d51,
+    component: _f910b6fe,
     name: "login"
   }, {
     path: "/register",
-    component: _78df6deb,
+    component: _837cce8a,
     name: "register"
   }, {
     path: "/register-success",
-    component: _4e9e0321,
+    component: _785f441e,
     name: "register-success"
   }, {
     path: "/upload",
-    component: _cd878b6e,
+    component: _47cad919,
     name: "upload"
   }, {
     path: "/dashboard/transactions",
-    component: _1de0735e,
+    component: _3058a181,
     name: "dashboard-transactions"
   }, {
     path: "/transaction/error",
-    component: _6c1615b2,
+    component: _5e1cfc82,
     name: "transaction-error"
   }, {
     path: "/transaction/finish",
-    component: _072cea4e,
+    component: _4b3f7e09,
     name: "transaction-finish"
   }, {
     path: "/transaction/unfinish",
-    component: _37bf4a9c,
+    component: _55737c3c,
     name: "transaction-unfinish"
   }, {
     path: "/dashboard/projects/create",
-    component: _7e667d72,
+    component: _2b237ebc,
     name: "dashboard-projects-create"
   }, {
     path: "/dashboard/projects/:id",
-    component: _790a05ce,
+    component: _481cb0fe,
     name: "dashboard-projects-id"
   }, {
     path: "/dashboard/projects/:id?/edit",
-    component: _2b132bbe,
+    component: _73334ae4,
     name: "dashboard-projects-id-edit"
   }, {
     path: "/projects/:id?",
-    component: _07565468,
+    component: _44a328d0,
     name: "projects-id"
   }, {
     path: "/",
-    component: _5115ba3a,
+    component: _8c5ffd2c,
     name: "index"
   }],
 
