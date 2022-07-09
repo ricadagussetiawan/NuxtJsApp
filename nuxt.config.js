@@ -61,7 +61,8 @@ export default {
    ** See https://axios.nuxtjs.org/options
    */
   axios: {
-    baseURL: 'https://ricad-store.my.id',
+//     baseURL: 'https://ricad-store.my.id',
+     baseURL: 'http://localhost:8080',
   },
   /*
    ** Build configuration
